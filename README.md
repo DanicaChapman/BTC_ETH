@@ -1,4 +1,4 @@
-A python app that will display the closing prices of bitcoin and ethereum as well as other relevant information
+
 
 This Python app displays bar charts showing the closing prices of Bitcoin and Ethereum 
 from the time they first emerged til the most recent market day (weekday). It also 
